@@ -19,8 +19,7 @@ Desenvolvedor junior focado em soluções eficientes e escaláveis, atuando em b
 
 ### 📈 Estatísticas do GitHub
 
-![EnriqueCardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueCardoso&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueCardoso&layout=compact&theme=github_dark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=EnriqueCardoso&theme=darkhub&margin-w=10&margin-h=10)
 
 ---
 
