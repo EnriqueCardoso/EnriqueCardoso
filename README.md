@@ -19,13 +19,14 @@ Desenvolvedor junior focado em soluções eficientes e escaláveis, atuando em b
 
 ### 📈 Estatísticas do GitHub
 
-<div style="float:left; width:100%">
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://github.com/EnriqueCardoso">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username/EnriqueCardoso&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/EnriqueCardoso">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username/EnriqueCardoso&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/EnriqueCardoso"/>
-</a>
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=EnriqueCardoso&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/EnriqueCardoso">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueCardoso&layout=compact&theme=radical" />
+  </a>
 </div>
 
 ---
