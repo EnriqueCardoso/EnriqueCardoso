@@ -19,6 +19,13 @@ Desenvolvedor junior focado em soluções eficientes e escaláveis, atuando em b
 
 ### 📈 Estatísticas do GitHub
 
+#### 📊 API REST do GitHub (JSON)
+
+- [Dados do usuário (JSON)](https://api.github.com/users/EnriqueCardoso)
+- [Repositórios do usuário (JSON)](https://api.github.com/users/EnriqueCardoso/repos)
+
+#### 🏆 Cards Visuais
+
 <div style="float:left; width:100%">
 	<a href="https://github.com/EnriqueCardoso">
 		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EnriqueCardoso&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
@@ -27,6 +34,8 @@ Desenvolvedor junior focado em soluções eficientes e escaláveis, atuando em b
 		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueCardoso&layout=compact&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be" />
 	</a>
 </div>
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=EnriqueCardoso&theme=darkhub&margin-w=10&margin-h=10)
 
 ---
 
