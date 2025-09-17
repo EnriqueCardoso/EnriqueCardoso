@@ -1,11 +1,40 @@
-### Cardoso né 🗡️
-[![Blog](https://img.shields.io/website?label=EnriqueCardoso&style=for-the-badge&url=https://google.com/)]()
+## 👋 Olá! Eu sou o Enrique Joaquim Cardoso!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueCardoso&show_icons=true&theme=radical)
+Desenvolvedor junior focado em soluções eficientes e escaláveis, atuando em backend, frontend e automação.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueCardoso)](https://github.com/anuraghazra/github-readme-stats)
+### 💼 Sobre Mim
 
-### 3INFO1
+- 💻 **Desenvolvedor Full Stack**
+- 🧑‍💻 Foco em backend, frontend e integração de sistemas
+- 🚀 Experiência em projetos acadêmicos
 
-<div style="display: inline-block"><br/>
-<img align="center" alt="cardoso" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
+### 🛠️ Tecnologias & Linguagens Utilizadas
+
+- ![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
+- ![Shell Script](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript)
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js)
+- ![SQL](https://img.shields.io/badge/-SQL-blue?logo=sqlite)
+- ![Procfile](https://img.shields.io/badge/-Procfile-lightgrey)
+
+### 📈 Estatísticas do GitHub
+
+<div style="float:left; width:100%">
+  <a href="https://github.com/EnriqueCardoso">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username/EnriqueCardoso&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/EnriqueCardoso">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username/EnriqueCardoso&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/EnriqueCardoso"/>
+</a>
+</div>
+
+---
+
+### 🌱 Sempre em busca de novos aprendizados!
+
+Aberto para colaborações e novos desafios.
+
+---
+
+**Contato:**  
+[LinkedIn](https://br.linkedin.com/in/enrique-joaquim-cardoso-988a3529a) | [Email](enriquecardoso2007@gmail.com)
